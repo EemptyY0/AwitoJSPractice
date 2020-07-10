@@ -133,5 +133,5 @@ const renderCard = () => {
         `);
     });
 };
-
+renderCard();
 
